@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE, comment="", warning = FALSE, message = FALSE,
 
 **Authors (Names and Percentages)**: Arryn Permadina (16.67%), Ebunoluwa Oni (16.67%), Shivangi Mathur (16.67%), Shucong Zhou (16.67%), Yuhan Chen (16.67%), Zhihuan Shao (16.67%)
 
-----TBU 
+----Test
 
 ### Statement of the Problem
 
