@@ -1,0 +1,321 @@
+---
+title: ""
+author:  "
+Arryn Permadina
+Ebunoluwa Oni
+Shivangi Mathur
+Shucong Zhou
+Yuhan Chen
+Zhihuan Shao
+"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, comment="", warning = FALSE, message = FALSE, tidy.opts=list(width.cutoff=55), tidy = TRUE)
+```
+
+## Part 1:  Research Proposal
+
+### Executive Summary / Abstract
+
+**Authors (Names and Percentages)**: Arryn Permadina (16.67%), Ebunoluwa Oni (16.67%), Shivangi Mathur (16.67%), Shucong Zhou (16.67%), Yuhan Chen (16.67%), Zhihuan Shao (16.67%)
+
+----TBU 
+
+### Statement of the Problem
+
+**Authors (Names and Percentages)**: Arryn Permadina (16.67%), Ebunoluwa Oni (16.67%), Shivangi Mathur (16.67%), Shucong Zhou (16.67%), Yuhan Chen (16.67%), Zhihuan Shao (16.67%)
+ 
+Facebook has improved its business model. It includes a marketplace- an online feature that enables users to find, buy, and sell products. Unlike eBay, it has a socializing character that allows users to access other users’ profiles. The Facebook marketplace provides features that connect consumers directly to the goods and products sold or purchased (Pahwa, 2021). Facebook does not offer transactions on sales, but it provides a platform where sellers advertise their products to buyers and other sellers without them being included in the process of pricing and shipping. Facebook marketplace employed the concept of product categorization as sellers can easily list their products for sale from the comfort of their location. When one searches for a product, their information is picked from their profile, and their location is noted (Asaulo, 2022). Different products for sale are displayed in their location, and the buyer selects the product they want and connects with the seller through Facebook messenger. Adding specific information to sponsored listings on the Facebook marketplace helps increase clicks to the listing. 
+
+Sponsored Facebook marketplace advertisements are primarily designed to target specific audiences, requiring adding several independent variables leading to more clicks on listings (Asaolu,2022). As it is known, the Facebook marketplace provides a beautiful business platform essential for obtaining new clients, equating to more clicks. Many people tend to discover new products through this platform and hence tend to increase their purchases. Adding more specific details to sponsored listings may increase the clicks as the buyer's visibility increases (Pahwa, 2021). Therefore, the Facebook marketplace is essential for businesses as it has many people with potential clients. Seller's products are exposed to more people in the marketplace. Those with specific wants will always try and do some searching on the seller's profile; hence, these tend to increase the number of clicks on the listing.
+
+
+### Research Questions and Hypotheses 
+**Authors (Names and Percentages)**:Ebunoluwa Oni (50%), Yuhan Chen (50%)
+
+
+
+### Importance of the Study
+
+**Authors (Names and Percentages)**: Arryn Permadina (16.67%), Ebunoluwa Oni (16.67%), Shivangi Mathur (16.67%), Shucong Zhou (16.67%), Yuhan Chen (16.67%), Zhihuan Shao (16.67%)
+
+
+
+### Literature Review
+
+**Authors (Names and Percentages)**: Arryn Permadina (50%), Zhihuan Shao (50%)
+
+#### The effect of sponsored listing/advertising on clicks
+
+According to Rallabandi (2022), sponsored listing plays a direct role in information and becomes beneficial for all parties (marketplace, consumer, and seller). One of the typical mainstream calculations to determine whether it benefited all parties is by measuring through clickthrough rate (CTR) (Xiong et al., 2019).
+ 
+Numerous studies have investigated the factors influencing consumer adoption of the sponsored result. Accordingly, little is known about customer behavior toward sponsored results, the likelihood of clicks and purchases, and the propensity of consumers to be influenced by such advertising (Viswanathan et al., 2007; Yao & Mela, 2009a; Ghose & Yang, 2009). Some researchers have suggested that consumers will be increasingly reluctant to use sponsored results the more they become aware of their nature. On the other hand,  Jansen and Molina (2006) found that any reluctance disappears once a consumer clicks on a sponsored advertisement. Gauzente (2010) discovered that the relationship between attitude and click behavior is solid and significant. Internet users with positive attitudes towards sponsored ads are likely to click on such links.
+
+#### The effect of seller information on buyers’ purchase behavior
+
+The objective of digital advertisements, mainly sponsored listings, is to maintain the product at the consumer's eye level, i.e., to attract the consumer's attention. The phase develops to compel the consumer to click, where click is defined as subsequent advertising behavior, including purchase intention (Chen et al., 2021).
+ 
+Due to the absence of nonverbal cues and face-to-face interaction in the online business environment, it is essential for the platform to facilitate sellers forming impressions on the buyers. These cues are commonly sorted out by user- or system-generated reputation scores and visual representations of the sellers, such as photos or avatars.  As obtaining trust is essential in these businesses, the presence of profile photos was identified as the factor that contributed to the perception of the seller’s trustworthiness (Bente et el., 2014; Steinbruck, Schaumburg, Duda, and Kruger, 2002). Another study revealed that the seller's photograph would influence the buyer’s decision-making (Riegelsberger, 2003).
+
+Another example of impression-bearing information is aggregated user representations, which refer to system-generated information representing users' evaluations of a target (Walther & Jang, 2012). A commonly aggregated user representation on a seller's profile is a seller's reputation rating, indicating the seller's performance in previous transactions and providing buyers with information to estimate the potential risk of the transaction (Nickel, 2009). Indeed, prior research shows that a seller's reputation score plays a vital role in assisting buyers in reducing uncertainties and forming judgments about the seller's likelihood of cooperating in the transaction (Chevalier & Mayzlin, 2006; Flanagin, Metzger, Pure, Markov, & Hartsell, 2014; Willemsen, Neijens, Bronner, & de Ridder, 2011). 
+ 
+Perception from peers occasionally could shape trustworthiness that leads to purchase intention. As Facebook is originally a social networking site, we intend to discover whether displaying mutual connection features (between the buyer and the vendor) will trigger a click. According to previous research, social presence in e-commerce moderates the relationship between trust toward site members and purchase intention (Liu, 2018). However, there is no further research on mutual connections on social networking websites like Facebook.
+
+#### The effect of mutual connection on increasing click rate
+
+In the present day, social media, through social and digital marketing, have changed consumer behavior and how businesses are conducted, which offer lucrative chances to business owners. In this case, the relationship between the buyer and the seller is essential, including the mutual friends these buyers and sellers have on these social media platforms (Saleem, 2019). Friends on social media platforms tend to seek advice or experience with a product from their mutual friends who may have tried the product. Depending on the reviews, this may result in interest and trust or mistrust. 
+
+A seller, therefore, needs to have a personal relationship with the buyer to ensure that the mutual friends of the buyer are attracted to the products being sold by the buyer. Through this, the seller can increase sales through referrals of mutual friends by the buyers. Therefore, adding mutual relation information on their Facebook marketplace list page will increase the click-through rate (Yogesh et al., 2021). One buyer may inform some of their mutual friends. Still, this particular product being advertised and the information on mutual relation may play a vital role in gaining trust from the referred friend hence stirring up interest and trust, leading to increased clicks when this cycle continues.
+
+
+### Research Plan
+
+**Authors (Names and Percentages)**: Shivangi Mathur (50%), Shucong Zhou (50%)
+
+
+
+#### Population of Interest
+
+**Authors (Names and Percentages)**: Arryn Permadina (16.67%), Ebunoluwa Oni (16.67%), Shivangi Mathur (16.67%), Shucong Zhou (16.67%), Yuhan Chen (16.67%), Zhihuan Shao (16.67%)
+
+
+#### Sample Selection
+
+**Authors (Names and Percentages)**: Arryn Permadina (16.67%), Ebunoluwa Oni (16.67%), Shivangi Mathur (16.67%), Shucong Zhou (16.67%), Yuhan Chen (16.67%), Zhihuan Shao (16.67%)
+
+
+#### Sample Size
+
+**Authors (Names and Percentages)**: Arryn Permadina (16.67%), Ebunoluwa Oni (16.67%), Shivangi Mathur (16.67%), Shucong Zhou (16.67%), Yuhan Chen (16.67%), Zhihuan Shao (16.67%)
+
+
+#### Operational Procedures
+
+**Authors (Names and Percentages)**: Arryn Permadina (16.67%), Ebunoluwa Oni (16.67%), Shivangi Mathur (16.67%), Shucong Zhou (16.67%), Yuhan Chen (16.67%), Zhihuan Shao (16.67%)
+
+
+### Brief Schedule
+
+**Authors (Names and Percentages)**: Arryn Permadina (16.67%), Ebunoluwa Oni (16.67%), Shivangi Mathur (16.67%), Shucong Zhou (16.67%), Yuhan Chen (16.67%), Zhihuan Shao (16.67%)
+
+
+#### Data Collection
+
+**Authors (Names and Percentages)**: Arryn Permadina (16.67%), Ebunoluwa Oni (16.67%), Shivangi Mathur (16.67%), Shucong Zhou (16.67%), Yuhan Chen (16.67%), Zhihuan Shao (16.67%)
+
+
+
+#### Data Security
+
+**Authors (Names and Percentages)**: Arryn Permadina (16.67%), Ebunoluwa Oni (16.67%), Shivangi Mathur (16.67%), Shucong Zhou (16.67%), Yuhan Chen (16.67%), Zhihuan Shao (16.67%)
+
+
+#### Outcomes (Dependent Variables)
+
+
+**Authors (Names and Percentages)**: Arryn Permadina (16.67%), Ebunoluwa Oni (16.67%), Shivangi Mathur (16.67%), Shucong Zhou (16.67%), Yuhan Chen (16.67%), Zhihuan Shao (16.67%)
+
+
+#### Treatments (Independent Variables)
+
+**Authors (Names and Percentages)**: Arryn Permadina (16.67%), Ebunoluwa Oni (16.67%), Shivangi Mathur (16.67%), Shucong Zhou (16.67%), Yuhan Chen (16.67%), Zhihuan Shao (16.67%)
+
+
+
+#### Other Variables
+
+**Authors (Names and Percentages)**: Arryn Permadina (16.67%), Ebunoluwa Oni (16.67%), Shivangi Mathur (16.67%), Shucong Zhou (16.67%), Yuhan Chen (16.67%), Zhihuan Shao (16.67%)
+
+
+
+### Statistical Analysis Plan  
+
+**Authors (Names and Percentages)**: Arryn Permadina (16.67%), Ebunoluwa Oni (16.67%), Shivangi Mathur (16.67%), Shucong Zhou (16.67%), Yuhan Chen (16.67%), Zhihuan Shao (16.67%)
+
+
+
+### Limitations and Uncertainties
+
+**Authors (Names and Percentages)**: Arryn Permadina (16.67%), Ebunoluwa Oni (16.67%), Shivangi Mathur (16.67%), Shucong Zhou (16.67%), Yuhan Chen (16.67%), Zhihuan Shao (16.67%)
+
+
+
+## Part 2:  Simulated Studies
+
+**Authors (Names and Percentages)**: Arryn Permadina (16.67%), Ebunoluwa Oni (16.67%), Shivangi Mathur (16.67%), Shucong Zhou (16.67%), Yuhan Chen (16.67%), Zhihuan Shao (16.67%)
+
+
+
+### Research Question 1:
+
+#### Scenario 1:  No Effect
+
+**Authors (Names and Percentages)**: Arryn Permadina (16.67%), Ebunoluwa Oni (16.67%), Shivangi Mathur (16.67%), Shucong Zhou (16.67%), Yuhan Chen (16.67%), Zhihuan Shao (16.67%)
+
+
+##### Simulation
+
+```{r q1_scenario1_simulation}
+
+```
+
+##### Analysis
+
+```{r q1_scenario1_analysis}
+
+```
+
+
+
+#### Scenario 2:  An Expected Effect
+
+**Authors (Names and Percentages)**: Arryn Permadina (16.67%), Ebunoluwa Oni (16.67%), Shivangi Mathur (16.67%), Shucong Zhou (16.67%), Yuhan Chen (16.67%), Zhihuan Shao (16.67%)
+
+
+##### Simulation
+
+```{r q1_scenario2_simulation}
+
+```
+
+##### Analysis
+
+```{r q1_scenario2_analysis}
+
+```
+
+
+
+### Research Question 2:
+
+#### Scenario 1:  No Effect
+
+**Authors (Names and Percentages)**: Arryn Permadina (16.67%), Ebunoluwa Oni (16.67%), Shivangi Mathur (16.67%), Shucong Zhou (16.67%), Yuhan Chen (16.67%), Zhihuan Shao (16.67%)
+
+
+##### Simulation
+
+```{r q2_scenario1_simulation}
+
+```
+
+##### Analysis
+
+```{r q2_scenario1_analysis}
+
+```
+
+
+
+#### Scenario 2:  An Expected Effect
+
+**Authors (Names and Percentages)**: Arryn Permadina (16.67%), Ebunoluwa Oni (16.67%), Shivangi Mathur (16.67%), Shucong Zhou (16.67%), Yuhan Chen (16.67%), Zhihuan Shao (16.67%)
+
+
+##### Simulation
+
+```{r q2_scenario2_simulation}
+
+```
+
+##### Analysis
+
+```{r q2_scenario2_analysis}
+
+```
+
+### Research Question 3:
+
+#### Scenario 1:  No Effect
+
+**Authors (Names and Percentages)**: Arryn Permadina (16.67%), Ebunoluwa Oni (16.67%), Shivangi Mathur (16.67%), Shucong Zhou (16.67%), Yuhan Chen (16.67%), Zhihuan Shao (16.67%)
+
+
+##### Simulation
+
+```{r q3_scenario1_simulation}
+
+```
+
+##### Analysis
+
+```{r q3_scenario1_analysis}
+
+```
+
+
+
+#### Scenario 2:  An Expected Effect
+
+**Authors (Names and Percentages)**: Arryn Permadina (16.67%), Ebunoluwa Oni (16.67%), Shivangi Mathur (16.67%), Shucong Zhou (16.67%), Yuhan Chen (16.67%), Zhihuan Shao (16.67%)
+
+
+##### Simulation
+
+```{r q3_scenario2_simulation}
+
+```
+
+##### Analysis
+
+```{r q3_scenario2_analysis}
+
+```
+
+
+## References
+
+**Authors (Names and Percentages)**: Arryn Permadina (16.67%), Ebunoluwa Oni (16.67%), Shivangi Mathur (16.67%), Shucong Zhou (16.67%), Yuhan Chen (16.67%), Zhihuan Shao (16.67%)
+
+Asaolu, H. (2022). The complete guide to the Facebook marketplace for your business. LeadsBridge. https://leadsbridge.com/blog/facebook-marketplace/
+
+Atif Saleem Butt. (2019). Absence of personal relationship in a buyer-supplier relationship: Case of buyers and suppliers of logistics services provider in Australia. ScienceDirect.com | Science, health, and medical journals, full-text articles, and books. https://www.sciencedirect.com/science/article/pii/S2405844018368026
+
+Bente, G., Dratsch, T., Rehbach, S., Reyl, M., & Lushaj, B. (2014). Do you trust my avatar? Effects of photo-realistic seller avatars and reputation scores on trust in online transactions. In F. F.-H. Nah (Ed.), HCI in business, 461e470. Heraklion, Greece: Springer International Publishing. 
+
+Chevalier, J. A., & Mayzlin, D. (2006). The effect of word of mouth on sales: Online book reviews. Journal of Marketing Research, 43, 345e354. https://doi.org/ 10.1509/jmkr.43.3.345. 
+
+Chiewen. C., Wenshin L., Wenkuo C., Piying H., & Yating T. (2021). Exploring Consumers’ Purchase Intention to Social Media Advertising: The Role of Advertising Clicks. In 2021 12th International Conference on E-Education, E-Business, E-Management, and E-Learning (IC4E 2021), January 10-13, 2021, Tokyo, Japan. ACM, New York, NY, USA, 7 pages. https://doi.org/10.1145/3450148.3450174.
+
+Dai, Y.,  Viken, G., Joo, E., & Bente, G. (2018). Risk assessment in e-commerce: How sellers’ photos, reputation scores, and the stake of a transaction influence buyers’ purchase behavior and information processing, Vol. 84, 342e351. https://doi-org.ezproxy.cul.columbia.edu/10.1016/j.chb.2018.02.038
+
+Dunay, P. (2011). Facebook advertising for dummies. 
+Retrieved from https://clio.columbia.edu/catalog/SCSB-1635907
+
+Flanagin, A. J. (2007). Commercial markets as communication markets: Uncertainty reduction through mediated information exchange in online auctions. New Media & Society, 9, 401e423. https://doi.org/10.1177/1461444807076966. 
+
+Flanagin, A. J., Metzger, M. J., Pure, R., Markov, A., & Hartsell, E. (2014). Mitigating risk in ecommerce transactions: Perceptions of information credibility and the role of user-generated ratings in product quality and purchase intention. Electronic Commerce Research, 14, 1e23. https://doi.org/10.1007/s10660-014-9139-2. 
+
+Gauzente, C. (2010). The intention to click on sponsored ads—A study of the role of prior knowledge and of consumer profile, 17, 457e463. https://doi.org/10.1016/j.jretconser.2010.06.002
+
+Ghose, A., Yang, S., (2009). An empirical analysis of search engine advertising: sponsored search in electronic markets. Management Science 55 (10), 1605e1622.
+
+Jansen, B.J., Molina, P.R., (2006). The effectiveness of web search engines for retrieving relevant e-commerce links. Information Processing and Management 42, 1075e1098.
+
+Lio, C., Bao, Z., & Zheng, C. (2019). Exploring consumers’ purchase intention in social commerce: An empirical study based on trust, argument quality, and social presence. Vol.31. 378e397. https://doi.org/10.1108/APJML-05-2018-0170
+
+Nickel, P. J. (2009). Trust, staking, and expectations. Journal for the Theory of Social Behavior, 39, 345e362. https://doi.org/10.1111/j.1468-5914.2009.00407.x. 
+
+Pahwa, A. (2021). Everything you need to know about the Facebook marketplace. Feedough. https://www.feedough.com/facebook-marketplace/
+
+Rallabandi, K. C. (2022). Consumer Perceptions of Sponsored Listings and their impact on Online Marketplaces. UCLA Electronic Theses and Dissertations, USA.  http://dissertations.umi.com/ucla:20591.
+
+Riegelsberger, J. (2003). Interpersonal cues and consumer trust in e-commerce. In Proceedings of CHI '03 extended Abstracts on human factors in computing systems, USA,  674e675. https://doi.org/10.1145/765891.765923. 
+
+Steinbrück, U., Schaumburg, H., Duda, S., & Krüger, T. (2002). A picture says more than a thousand words: Photographs as trust builders in e-commerce websites. In Proceedings of conference on human factors in computing systems. New York: ACM Press. 748e749.
+
+Veer, V. (2008). Facebook: the missing manual. Offsite Shared Collection (Princeton). Retrieved from https://clio.columbia.edu/catalog?
+
+Viswanathan, S., Agarwal, R., Animesh, A., (2007). Online Sponsored search advertising as a quality signal and its impact on consumer behavior. In: ICIS 2007 Proceedings, Paper 138. 
+
+Walther, J. B., & Jang, J. (2012). Communication processes in participatory websites. Journal of Computer-mediated Communication, p. 18, 2e15. https://doi.org/10.1111/j.1083-6101.2012.01592.x. 
+
+Willemsen, L. M., Neijens, P. C., Bronner, F., & de Ridder, J. A. (2011). Highly recommended! the content characteristics and perceived usefulness of online consumer reviews. Journal of Computer-mediated Communication, 17, 19e38. 
+
+Xiong, X., Chuan, X., Rongmei Z., Yuanyuan, L., Shenggen J., & Ming J. (2019). A Clickthrough Rate Prediction Algorithm Based on User’s Behaviour. IEEE Access, Vol. 7, 174782e174792. https://doi.org/10.1109/ACCESS.2019.2957054.
+
+Yao, S., Mela, C.F., (2009). Sponsored search auctions: research opportunities in marketing. Foundations and Trends in Marketing 3 (2), 75e126. 
+
+Yogesh K.Dwivedi, et al. (2021). Setting the future of digital and social media marketing research: Perspectives and research propositions. https://www.sciencedirect.com/science/article/pii/S0268401220308082
